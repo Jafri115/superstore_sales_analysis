@@ -26,4 +26,14 @@ The dataset was cleaned and explored using Pandas and PandaSQL to uncover prelim
 
 ---
 
+## Interactive Dashboard
+
+Explore the interactive dashboard here:  
+👉 [View Dashboard](https://public.tableau.com/app/profile/syed.jafri2681/viz/sales_dashboard_2_17456213076350/Dashboard1?publish=yes)
+
+This dashboard provides a dynamic interface to explore sales performance by region, category, time, and shipping status.
+
+---
+
 ![Sales Trend Over Time](images/sales_dashboard.png)
+
